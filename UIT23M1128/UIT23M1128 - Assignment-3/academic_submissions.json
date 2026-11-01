@@ -1,0 +1,14 @@
+[
+  {
+    "id": "paper_1.txt",
+    "content": "Deep learning architectures have revolutionized natural language processing and image recognition tasks using convolutional neural networks."
+  },
+  {
+    "id": "submission_A.txt",
+    "content": "Deep learning architectures have revolutionized natural language processing tasks using neural networks and convolutional layers."
+  },
+  {
+    "id": "paper_2.txt",
+    "content": "Quantum computing utilizes quantum mechanics principles such as superposition and entanglement to perform complex matrix calculations."
+  }
+]

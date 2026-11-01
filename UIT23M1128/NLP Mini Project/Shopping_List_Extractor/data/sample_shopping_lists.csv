@@ -1,0 +1,36 @@
+item,quantity,unit,category
+rice,2,kg,Grains
+milk,1,litre,Dairy
+apple,6,pieces,Fruits
+bread,2,packets,Bakery
+tomato,1,kg,Vegetables
+soap,3,pieces,Personal Care
+egg,12,pieces,Dairy
+sugar,1,kg,Condiments
+butter,500,g,Dairy
+banana,12,pieces,Fruits
+potato,2,kg,Vegetables
+onion,1,kg,Vegetables
+wheat flour,5,kg,Grains
+biscuit,3,packets,Snacks
+cheese,200,g,Dairy
+detergent,1,bottle,Cleaning
+shampoo,1,bottle,Personal Care
+toothpaste,2,tubes,Personal Care
+cooking oil,2,bottles,Condiments
+orange juice,2,bottles,Beverages
+tea,250,g,Beverages
+chicken,1,kg,Meat
+fish,500,g,Seafood
+carrot,500,g,Vegetables
+notebook,4,pieces,Stationery
+pen,10,pieces,Stationery
+salt,1,packet,Spices
+turmeric,100,g,Spices
+tissue paper,2,boxes,Household
+frozen peas,1,packet,Frozen Foods
+yogurt,500,g,Dairy
+oats,1,packet,Grains
+mango,2,kg,Fruits
+spinach,1,bunch,Vegetables
+dish soap,1,bottle,Cleaning

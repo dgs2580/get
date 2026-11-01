@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P101",
+    "name": "Wireless Noise Cancelling Headphones",
+    "description": "High fidelity sound bluetooth active noise cancellation wireless headphone with microphone."
+  },
+  {
+    "id": "P102",
+    "name": "Bluetooth Gaming Earbuds",
+    "description": "Low latency wireless earbuds with gaming audio surround sound and mic."
+  },
+  {
+    "id": "P103",
+    "name": "Ergonomic Mechanical Keyboard",
+    "description": "RGB mechanical keyboard blue switch tactile feel ergonomic wrist rest for gaming."
+  },
+  {
+    "id": "P104",
+    "name": "Wireless Optical Gaming Mouse",
+    "description": "High precision DPI wireless ergonomic mouse with customizable RGB buttons."
+  }
+]

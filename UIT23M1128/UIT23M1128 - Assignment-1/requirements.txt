@@ -1,0 +1,7 @@
+nltk
+spacy
+transformers
+emoji
+pandas
+torch
+sentencepiece
